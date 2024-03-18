@@ -1,4 +1,6 @@
 # Sales Analysis Report for Freddie's Gadgets
+<img width="635" alt="Freedies" src="https://github.com/DataNerdss/Sales_Dashboard_Ecommerce/assets/116424752/ad953c12-64ef-4556-ae1d-f77fa0fe7ac4">
+
 ## Overview
 This report presents an analysis of sales data for Freddie's Gadgets, covering various aspects such as total sales, net profit, product performance, regional sales distribution, and more. The analysis was conducted using Power BI, and the findings offer valuable insights into the company's sales performance and trends.
 
@@ -49,6 +51,7 @@ The analysis of Freddie's Gadgets sales data provides valuable insights into the
 
 
 # Description for the variables in the data set
+<img width="672" alt="image" src="https://github.com/DataNerdss/Sales_Dashboard_Ecommerce/assets/116424752/5c3892e6-7400-498b-885f-3287284c05ed">
 
 ChannelName: Name of the sales channel through which the order was made.
 
